@@ -1,0 +1,11 @@
+@startuml
+start
+
+while (该哲学家两边筷子均未被使用?)
+  :eating;
+  :两边筷子状态变为使用中;
+endwhile
+
+stop
+
+@enduml

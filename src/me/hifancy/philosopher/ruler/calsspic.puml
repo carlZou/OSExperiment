@@ -1,0 +1,24 @@
+@startuml
+
+
+class fork
+class philosopher
+
+philosopher <- fork
+
+class fork{
+boolean used
+void takeFork();
+void putFork();
+}
+
+class philosopher extends Thread{
+String name
+fork fork
+
+void eating()
+void thinking()
+void run()
+}
+
+@enduml
