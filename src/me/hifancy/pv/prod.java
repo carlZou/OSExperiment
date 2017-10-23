@@ -1,4 +1,4 @@
-package me.fancy.pv;
+package me.hifancy.pv;
 
 import java.util.ArrayList;
 import java.util.concurrent.atomic.AtomicInteger;

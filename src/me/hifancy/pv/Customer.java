@@ -1,4 +1,4 @@
-package me.fancy.pv;
+package me.hifancy.pv;
 
 public class Customer extends Thread{
     private  String name;

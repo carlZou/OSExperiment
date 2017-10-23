@@ -1,4 +1,4 @@
-package me.fancy.pv;
+package me.hifancy.pv;
 
 public class Test {
     public static void main(String[] args) {
