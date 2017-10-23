@@ -1,0 +1,20 @@
+@startuml
+
+class philosopher
+class stick
+
+class stick{
+boolean used
+
+void getstatus()
+boolean setstatus()
+
+}
+
+class philosopher{
+int id
+
+void eating()
+void thinking()
+}
+@enduml
